@@ -1,4 +1,4 @@
-# easypost
+# EasyPost
 
 
 
